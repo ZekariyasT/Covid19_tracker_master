@@ -17,7 +17,7 @@ https://github.com/ZekariyasT
 - [x] Live Data.
 - [x] InfoGraphs for all Countries
 - [x] Search Option for ease.
-- [x] Indian States data.
+- [x] Ethiopian States data.
 - [x] Live Map in WebView.
 - [x] Dynamic Theme (light & dark).
 
